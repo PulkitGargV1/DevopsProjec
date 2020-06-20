@@ -8,7 +8,6 @@ COPY . app.py /app/
 
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
-
 RUN pip install --upgrade pip &&\
     pip install --trusted-host pypi.python.org -r requirements.txt
 
@@ -16,5 +15,4 @@ RUN pip install --upgrade pip &&\
 EXPOSE 80
 
 # Run app.py at container launch
-
 CMD ["python", "app.py"]
