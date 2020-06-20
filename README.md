@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![PulkitGargV1](https://circleci.com/<VCS>/PulkitGargV1/DevopsProject.svg?style=svg)](https://app.circleci.com/pipelines/github/PulkitGargV1/DevopsProject)
 
 ## Project Overview
 
