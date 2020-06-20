@@ -1,4 +1,5 @@
-[![PulkitGargV1](https://circleci.com/<VCS>/PulkitGargV1/DevopsProject.svg?style=svg)](https://app.circleci.com/pipelines/github/PulkitGargV1/DevopsProject)
+[![PulkitGargV1](https://circleci.com/gh/PulkitGargV1/DevopsProject.svg?style=svg)](https://app.circleci.com/pipelines/github/PulkitGargV1/DevopsProject)
+
 
 ## Project Overview
 
